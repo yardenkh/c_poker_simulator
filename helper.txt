@@ -1,0 +1,31 @@
+  /**
+   * this was taken from wikipedia:
+the game go as follows:
+1. shuffle the deck
+2. each player being dealt two cards, player in the small blind receiving the first card.
+3. the hand begins with a "pre-flop" betting round, beginning with the player to the left of the big blind a round of betting continues until
+every player has folded, put in all their chips, or matched the amount put in by all other active players.
+4. After the pre-flop betting round, assuming there remain at least two
+players taking part in the hand, the dealer deals a flop: three face-up
+community cards. The flop is followed by a second betting round. This and
+all subsequent betting rounds begin with the player to the dealer's left
+and continue clockwise.
+5. After the flop betting round ends, a single community card (called the
+turn or fourth street) is dealt, followed by a third betting round.
+6. A final single community card (called the river or fifth street) is then
+dealt, followed by a fourth betting round and the showdown, if necessary.
+7. The showdown: If a player bets and all other players fold, then the
+remaining player is awarded the pot and is not required to show their hole
+cards. If two or more players remain after the final betting round, a showdown
+occurs. On the showdown, each player plays the best poker hand they can make
+from the seven cards comprising their two hole cards and the five community
+cards. A player may use both of their own two hole cards, only one, or none at
+all, to form their final five-card hand. If the five community cards form the
+player's best hand, then the player is said to be playing the board and can only
+hope to split the pot because each other player can also use the same five cards
+to construct the same hand.[11]
+
+If the best hand is shared by more than one player, then the pot is split
+equally among them, with any extra chips going to the first players after the
+button in clockwise order.
+   */
