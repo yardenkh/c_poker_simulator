@@ -2,7 +2,7 @@
 why won't you check my better, more efficient poker bot simulator written in c++? :)
 it's called HoldemLab and this is the link:
 
-https://github.com/yardenkh/HoldemLab
+https://github.com/yardenkh/cpp_poker_simulator_plusplus
 
 feel free to send suggestions at:
 yardenks@gmail.com 
