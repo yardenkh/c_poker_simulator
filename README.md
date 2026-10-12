@@ -1,3 +1,14 @@
+# If you already here
+why won't you check my better, more efficient poker bot simulator written in c++? :)
+it's called HoldemLab and this is the link:
+
+https://github.com/yardenkh/HoldemLab
+
+feel free to send suggestions at:
+yardenks@gmail.com 
+
+thnx!
+
 # c_poker_simulator
 a c poker game implementation. (minimal ai implementation beware)
 
